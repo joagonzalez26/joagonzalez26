@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="<img width="1123" height="584" alt="Captura de pantalla 2025-11-20 a la(s) 6 03 10 p  m" src="https://github.com/user-attachments/assets/f9a2f6e9-8da9-4cd0-ba53-7f6b039dd449" />" width="100%" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/f9a2f6e9-8da9-4cd0-ba53-7f6b039dd449" width="100%" alt="Banner">
 </p>
+
 
 <h1 align="center">👋 ¡Hola! Soy Joaquín González</h1>
 <h3 align="center">Analista en Sistemas | QA Tester en formación | Python Developer | MySQL Enthusiast</h3>
