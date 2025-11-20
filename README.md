@@ -78,6 +78,6 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
 <div align="center">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="150">
 </p>
 
