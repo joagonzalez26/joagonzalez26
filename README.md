@@ -32,7 +32,7 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
 ![QA](https://img.shields.io/badge/QA%20Testing-6A5ACD?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Developer](https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
+<div align="center">
 - **Python** (Tkinter, matplotlib, NumPy, automatización)
 - **MySQL** (modelado, consultas, Workbench)
 - **Git & GitHub**
