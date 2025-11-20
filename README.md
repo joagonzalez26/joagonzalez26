@@ -20,7 +20,6 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
 ---
 
 ## Tecnologías que utilizo
-<div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFDA44?style=for-the-badge)
@@ -32,7 +31,6 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
 ![QA](https://img.shields.io/badge/QA%20Testing-6A5ACD?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Developer](https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-<div align="center">
 - **Python** (Tkinter, matplotlib, NumPy, automatización)
 - **MySQL** (modelado, consultas, Workbench)
 - **Git & GitHub**
