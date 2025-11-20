@@ -77,8 +77,10 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joagonzalez26&show_icons=true&theme=radical)
+<p align="center">                                                                 <p align="center">
+  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="120">
+</p>
 
-</div>
-
-
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="120">
+</p> 
+ 
