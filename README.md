@@ -54,15 +54,14 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
   
 ---
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joagonzalez26&layout=compact&theme=radical)
-
-</div>
-
 ## Contacto
 📩 **joagonzalez26@gmail.com**  
 🌐 GitHub: **@joagonzalez26**  
 
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=joagonzalez26&show_icons=true&theme=radical)
+
+</div>
 
 
