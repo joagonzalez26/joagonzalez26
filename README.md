@@ -45,6 +45,7 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
 - *Pruebas de sistemas de software formalizadas en Python*  
 - *Proyectos de Álgebra y Geometría aplicados a programación*  
 - *Sistemas de gestión y pequeñas aplicaciones educativas*
+- *Realización de Lenguajes Formales y Computabilidad en la Programación*
 
 ---
 
