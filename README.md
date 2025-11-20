@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f9a2f6e9-8da9-4cd0-ba53-7f6b039dd449" width="100%" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/2dcdcca9-3145-4c4e-84f1-fc90a00a8222" width="100%" alt="Banner">
 </p>
 
 
@@ -48,5 +48,6 @@ Soy **Analista en Sistemas de Computación** en formación, apasionado por la ca
 ## Contacto
 📩 **joagonzalez26@gmail.com**  
 🌐 GitHub: **@joagonzalez26**  
+
 
 
