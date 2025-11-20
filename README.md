@@ -77,10 +77,7 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
 
 <div align="center">
 
-<p align="center">                                                                 <p align="center">
-  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="120">
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120">
 </p>
 
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="120">
-</p> 
- 
