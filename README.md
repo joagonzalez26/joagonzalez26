@@ -20,6 +20,7 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
 ---
 
 ## Tecnologías que utilizo
+<div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFDA44?style=for-the-badge)
