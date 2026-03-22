@@ -9,7 +9,7 @@
 
 <h1 align="center">👋 ¡Hola! Soy Joaquín González</h1>
 <h3 align="center">Analista en Sistemas | QA Tester en formación | Python Developer | MySQL Enthusiast</h3>
-Soy Analista en Sistemas de Computación en formación, apasionado por la calidad de software, la programación en Python y el análisis estructurado de sistemas. Me especializo en testing funcional, automatización básica, análisis de código y desarrollo de herramientas educativas o utilitarias en Python. Trabajo de forma integrada con herramientas de Inteligencia Artificial para acelerar el análisis, depuración y creación de software, manteniendo siempre el criterio profesional y el entendimiento técnico detrás de cada solución.
+Soy Analista en Sistemas de Computación en formación, apasionado por la calidad de software, la programación en Python y el análisis estructurado de sistemas. Me especializo en testing funcional, automatización básica, análisis de código y desarrollo de herramientas educativas o utilitarias en Python. Trabajo de forma integrada y en ocaciones necesarias de automatización utilizo herramientas de Inteligencia Artificial para acelerar el análisis, depuración y creación de software, manteniendo siempre el criterio profesional y el entendimiento técnico detrás de cada solución.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
