@@ -66,6 +66,8 @@ GitHub: **@joagonzalez26**
 <div align="center">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150">
+  
+![here-illustration-your-computer-equipment-260nw-2276534951](https://github.com/user-attachments/assets/b2e923b3-d23a-4b50-94cc-76abee3b533d)
+
 </p>
 
