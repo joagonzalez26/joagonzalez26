@@ -45,10 +45,10 @@
 </p>
 
 ## Proyectos destacados
-- *Pruebas de sistemas de software formalizadas en Python*  
-- *Proyectos de Álgebra y Geometría aplicados a programación*  
-- *Sistemas de gestión y pequeñas aplicaciones educativas*
-- *Realización de Lenguajes Formales y Computabilidad en la Programación*
+- Pruebas de sistemas de software formalizadas con Python
+- Proyecto de Álgebra y Geometría aplicados a programación
+- Sistemas de gestión y pequeñas aplicaciones educativas
+- Realización de Lenguajes Formales y Computabilidad en la Programación
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
