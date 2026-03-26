@@ -55,9 +55,6 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-## Objetivos
-- Convertirme en **QA Analyst** profesional.  
-- Seguir desarrollando proyectos en Python y bases de datos.
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
