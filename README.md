@@ -56,10 +56,6 @@ Soy Analista en Sistemas de Computación en formación, apasionado por la calida
 </p>
 
   
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</p>
-
 ## Contacto
 **joagonzalez26@gmail.com**  
 GitHub: **@joagonzalez26**  
