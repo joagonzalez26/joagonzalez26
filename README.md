@@ -67,7 +67,7 @@ GitHub: **@joagonzalez26**
 
 <p align="center">
   
-![here-illustration-your-computer-equipment-260nw-2276534951](https://github.com/user-attachments/assets/b2e923b3-d23a-4b50-94cc-76abee3b533d)
+
 
 </p>
 
