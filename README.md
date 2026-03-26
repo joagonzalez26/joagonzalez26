@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2dcdcca9-3145-4c4e-84f1-fc90a00a8222" width="100%" alt="Banner">
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
