@@ -11,11 +11,11 @@
 </p>
 
 ## ¿En qué estoy enfocado?
-- 🧪 **Testing QA**: análisis de calidad, detección de errores, documentación clara y metodologías ISTQB.
-- 🐍 **Python**: desarrollo de scripts, mini-aplicaciones, interfaces gráficas, análisis matemático y automatización.
-- 🗄️ **Bases de Datos**: MySQL, modelado lógico (EER), consultas, normalización y resolución de problemas.
-- 📊 **Análisis de funciones y proyectos educativos** (Lenguajes Formales y Computabilidad, Estadística y Probabilidad).
-- 👨‍💻 **Mejorar mi experiencia como desarrollador y tester**, construyendo proyectos reales.
+-  **Testing QA**: análisis de calidad, detección de errores, documentación clara y metodologías ISTQB.
+-  **Python**: desarrollo de scripts, mini-aplicaciones, interfaces gráficas, análisis matemático y automatización.
+-  **Bases de Datos**: MySQL, modelado lógico (EER), consultas, normalización y resolución de problemas.
+-  **Análisis de funciones y proyectos educativos** (Lenguajes Formales y Computabilidad, Estadística y Probabilidad).
+-  **Mejorar mi experiencia como desarrollador y tester**, construyendo proyectos reales.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
