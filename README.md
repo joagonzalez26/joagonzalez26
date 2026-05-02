@@ -4,11 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="<img width="60" height="60" alt="images" src="https://github.com/user-attachments/assets/2162cf68-90a8-455f-aad8-9b31b4d04e1d" />
-" width="45" />&nbsp;&nbsp;<img src="<img width="60" height="60" alt="hammer-and-wrench_1f6e0-fe0f" src="https://github.com/user-attachments/assets/b0499fa0-3706-4e0a-a794-ba134bea882b" />
-" width="45" />&nbsp;&nbsp;<img src="<img width="60" height="60" alt="headphone_1f3a7" src="https://github.com/user-attachments/assets/657d3141-646d-4380-b4c4-b9aa94e6ca80" />
-" width="45" />&nbsp;&nbsp;<img src="<img width="60" height="60" alt="desktop-computer_1f5a5" src="https://github.com/user-attachments/assets/a31144d7-0eb2-4d90-b52e-514d98279393" />
-" width="45" />
+<img width="633" height="167" alt="Captura de pantalla 2026-05-02 a la(s) 13 33 43" src="https://github.com/user-attachments/assets/88e16118-89f1-428a-9e22-bfee6140247d" />
 </p>
 
 <h1 align="center">Hola, Soy Joaquín González</h1>
