@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img width="60" height="60" alt="images" src="https://github.com/user-attachments/assets/a460721f-d60e-4f40-921f-466ffbe647bf" /> <img width="60" height="60" alt="hammer-and-wrench_1f6e0-fe0f" src="https://github.com/user-attachments/assets/499ca365-ffa8-4808-9b44-cf92d6a50312" /> <img width="60" height="60" alt="headphone_1f3a7" src="https://github.com/user-attachments/assets/7dbb8015-89f1-4bac-8963-1d23e07ebb26" /> <img width="60" height="60" alt="desktop-computer_1f5a5" src="https://github.com/user-attachments/assets/cfde76b3-6d75-4e2f-bd36-e19de39cc63b" />
+  <img src="https://github.com/user-attachments/assets/a460721f-d60e-4f40-921f-466ffbe647bf" width="45" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/495ac365-ffa8-4808-9b44-cf92d6a50312" width="45" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/7db80815-89f1-4bac-8963-1d23e07ebb26" width="45" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/cfde76b3-6d75-4e2f-bd36-e19de39cc63b" width="45" />
 </p>
 
 <h1 align="center">Hola, Soy Joaquín González</h1>
