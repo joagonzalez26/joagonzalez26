@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img width="70" alt="images" src="https://github.com/user-attachments/assets/40b08cd1-b5b3-4a02-859a-ad5924afd580" />
-  <img width="70" alt="hammer-and-wrench" src="<img width="160" height="160" alt="hammer-and-wrench_1f6e0-fe0f" src="https://github.com/user-attachments/assets/6d6a87be-6083-47be-86a6-42802d9cb781" /" />
-  <img width="70" alt="headphone" src="https://github.com/user-attachments/assets/9ithub.com/user-attachments/assets/46441438-1d55-4af9-8881-1e2c47f9fb7f" />
-  <img width="70" alt="desktop-computer" src="https://github.com/user-attachments/assets/6ff3646e-7e54-4b7f-8162-9080016960e0" />
+<img width="60" height="60" alt="images" src="https://github.com/user-attachments/assets/a460721f-d60e-4f40-921f-466ffbe647bf" />
+<img width="60" height="60" alt="hammer-and-wrench_1f6e0-fe0f" src="https://github.com/user-attachments/assets/499ca365-ffa8-4808-9b44-cf92d6a50312" />
+<img width="60" height="60" alt="headphone_1f3a7" src="https://github.com/user-attachments/assets/7dbb8015-89f1-4bac-8963-1d23e07ebb26" />
+<img width="60" height="60" alt="desktop-computer_1f5a5" src="https://github.com/user-attachments/assets/cfde76b3-6d75-4e2f-bd36-e19de39cc63b" />
 </p>
 
 <h1 align="center">Hola, Soy Joaquín González</h1>
