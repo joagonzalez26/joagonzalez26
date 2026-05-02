@@ -5,7 +5,7 @@
 
 <p align="center">
   <img width="70" alt="images" src="https://github.com/user-attachments/assets/40b08cd1-b5b3-4a02-859a-ad5924afd580" />
-  <img width="70" alt="hammer-and-wrench" src="https://github.com/user-attachments/assets/16ccea59-9140-4789-b334-caa8162cffe6" />
+  <img width="70" alt="hammer-and-wrench" src="<img width="160" height="160" alt="hammer-and-wrench_1f6e0-fe0f" src="https://github.com/user-attachments/assets/6d6a87be-6083-47be-86a6-42802d9cb781" /" />
   <img width="70" alt="headphone" src="https://github.com/user-attachments/assets/9ithub.com/user-attachments/assets/46441438-1d55-4af9-8881-1e2c47f9fb7f" />
   <img width="70" alt="desktop-computer" src="https://github.com/user-attachments/assets/6ff3646e-7e54-4b7f-8162-9080016960e0" />
 </p>
