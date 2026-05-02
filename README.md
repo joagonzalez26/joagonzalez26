@@ -55,6 +55,8 @@
 ![QA Testing](https://img.shields.io/badge/QA_Testing-6A5ACD?style=for-the-badge)
 ![Test Cases](https://img.shields.io/badge/Test_Cases-4B0082?style=for-the-badge)
 ![Bug Reports](https://img.shields.io/badge/Bug_Reports-B22222?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Apple Notes](https://img.shields.io/badge/Apple_Notes-FFD43B?style=for-the-badge&logo=apple&logoColor=black)
 
 ### Herramientas y entorno de trabajo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
