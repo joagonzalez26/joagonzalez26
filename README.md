@@ -91,7 +91,7 @@
 </p>
 
 ## Proyectos destacados
-- Testing de 3 etapas en software web
+- Testing coding con 3 etapas en software web | Ideal si querés comenzar aprender en el mundo del Testing
 - Proyecto de Álgebra y Geometría aplicados a programación
 - Sistemas de gestión y pequeñas aplicaciones educativas
 - Realización de Lenguajes Formales y Computabilidad en la Programación
