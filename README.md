@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-## 🛠️ Tecnologías que utilizo
+## Tecnologías que utilizo
 
 ### Lenguajes y desarrollo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
