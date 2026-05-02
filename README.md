@@ -3,9 +3,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-  <img src="./assets/joa-avatar.jpg" width="90" align="left" style="margin-right: 15px;" />
+<h1 align="center">Hola, Soy Joaquín González</h1> <img width="160" height="160" alt="images" src="https://github.com/user-attachments/assets/40b08cd1-b5b3-4a02-859a-ad5924afd580" />
 
-<h1 align="center">Hola, Soy Joaquín González</h1> 
 
 <h3 align="center">Analista en Sistemas | QA Junior | Python & SQL Developer </h3>
 
