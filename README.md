@@ -15,7 +15,7 @@
 -  **Python**: desarrollo de scripts, mini-aplicaciones, interfaces gráficas, análisis matemático y automatización.
 -  **Bases de Datos**: MySQL, modelado lógico (EER), consultas, normalización, algebra relacional y resolución de problemas.
 -  **Análisis de funciones y proyectos educativos** (POO en Java, Estadística y Probabilidad).
--  **Mejorar mi experiencia como desarrollador, tester**, construyendo proyectos reales.
+-  **Mejorar mi experiencia como apasadionado** en la tecnología.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
