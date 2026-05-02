@@ -7,7 +7,7 @@
 <img width="633" height="167" alt="Captura de pantalla 2026-05-02 a la(s) 13 33 43" src="https://github.com/user-attachments/assets/88e16118-89f1-428a-9e22-bfee6140247d" />
 </p>
 
-<h1 align="center">Hola, Soy Joaquín González</h1>
+<h1 align="center">Hola, Soy Joaquín Gonzalez</h1>
 
 <h3 align="center">Analista en Sistemas | QA Junior | Python & SQL Developer </h3>
 
