@@ -91,10 +91,11 @@
 </p>
 
 ## Proyectos destacados
-- Testing coding con 3 etapas en software web | Ideal si querés comenzar aprender en el mundo del Testing
-- Proyecto de Álgebra y Geometría aplicados a programación
-- Sistemas de gestión y pequeñas aplicaciones educativas
-- Realización de Lenguajes Formales y Computabilidad en la Programación
+- Testing con 3 etapas en Software web. (Ideal si querés comenzar aprender en el mundo del Testing)
+- Proyecto de Álgebra y Geometría aplicados a programación.
+- Sistemas de gestión y pequeñas aplicaciones educativas.
+- Realización de Lenguajes Formales y Computabilidad en la Programación.
+- Aplicación Python que permite controlar música usando gestos de las manos detectados en tiempo real con la cámara.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
