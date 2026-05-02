@@ -3,8 +3,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-<h1 align="center">Hola, Soy Joaquín González</h1> <img width="160" height="160" alt="images" src="https://github.com/user-attachments/assets/40b08cd1-b5b3-4a02-859a-ad5924afd580" />
-
+<h1 align="center">Hola, Soy Joaquín González</h1> <img width="160" height="160" alt="images" src="https://github.com/user-attachments/assets/40b08cd1-b5b3-4a02-859a-ad5924afd580" /> <img width="160" height="160" alt="hammer-and-wrench_1f6e0-fe0f" src="https://github.com/user-attachments/assets/166cea59-9140-4789-b334-caa8162cffe6" /> <img width="160" height="160" alt="headphone_1f3a7" src="https://github.com/user-attachments/assets/46441438-1d55-4af9-8881-1e2c47f9ffb7" /> <img width="160" height="160" alt="desktop-computer_1f5a5" src="https://github.com/user-attachments/assets/6fff3646-7e54-4b7f-8162-9080016960e0" />
 
 <h3 align="center">Analista en Sistemas | QA Junior | Python & SQL Developer </h3>
 
