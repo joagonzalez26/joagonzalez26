@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img width="633" height="167" alt="Captura de pantalla 2026-05-02 a la(s) 13 33 43" src="https://github.com/user-attachments/assets/88e16118-89f1-428a-9e22-bfee6140247d" />
+<img width="734" height="209" alt="Captura de pantalla 2026-05-05 a la(s) 04 38 49" src="https://github.com/user-attachments/assets/92de521d-000f-4df7-b799-b9edb15c7509" />
 </p>
 
 <h1 align="center">Hola, Soy Joaquín Gonzalez</h1>
