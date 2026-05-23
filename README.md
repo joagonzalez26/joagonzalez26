@@ -115,7 +115,7 @@
 </p>
 
 ## Proyectos destacados
-- Testing con 3 etapas en Software web. Proyecto orientado a los que quieran introducirse al mundo del testing.
+- Testing con 3 etapas en Software Web. ➤ Proyecto orientado a los que quieran introducirse al mundo del testing.
 - Proyecto de Estadistica Matemática aplicada a programación.
 - Sistemas de gestión y pequeñas aplicaciones educativas.
 - Realización de Lenguajes Formales y Computabilidad en la Programación.
