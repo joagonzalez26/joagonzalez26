@@ -114,6 +114,40 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
+## Certificaciones y formación complementaria
+
+### Inteligencia Artificial, Prompts y ChatGPT
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge)
+![IA](https://img.shields.io/badge/Inteligencia_Artificial-111827?style=for-the-badge)
+
+- **Fundamentos de ChatGPT** — Curso finalizado el 4 de enero de 2026.  
+- **Prompting responsable: maximiza la IA en tu negocio** — Curso finalizado el 4 de enero de 2026.  
+- **Curso de Ingeniería de Prompts** — Código Facilito, aprobado el 21 de marzo de 2026.
+
+### Ciencia de Datos y Programación
+![Data Science](https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **Introducción a la Ciencia de Datos** — Curso finalizado el 14 de abril de 2026.  
+- **Python** — Curso finalizado el 28 de octubre de 2025.
+
+### Marketing Digital
+![Marketing Digital](https://img.shields.io/badge/Marketing_Digital-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Storytelling](https://img.shields.io/badge/Storytelling-FF6F00?style=for-the-badge)
+
+- **Storytelling en el Marketing Digital** — Curso finalizado el 28 de octubre de 2025.
+
+### Ciberseguridad
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-008000?style=for-the-badge)
+
+- **Córdoba Cybersecurity Conference Reloaded 2025** — Certificado de asistencia, Universidad Siglo 21, 10 de junio de 2025.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
+
 ## Proyectos destacados
 - Testing con 3 etapas en Software Web. ➤ Proyecto orientado a los que quieran introducirse al mundo del testing.
 - Proyecto de Estadistica Matemática aplicada a programación.
