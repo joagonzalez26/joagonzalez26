@@ -107,8 +107,8 @@
 - **React, Vite y Tailwind CSS** para interfaces web modernas.
 - **Docker** para levantar entornos de desarrollo completos.
 - **Git y GitHub** para control de versiones y documentación de proyectos.
-- **Pytest, Selenium y Robot Framework** para pruebas automatizadas.
-- **QA Testing** para diseño de casos de prueba, documentación, reportes de bugs y validación de sistemas.
+- **Pytest, Selenium, Cypress y Robot Framework** para pruebas automatizadas. 
+- **QA Testing** para diseño de casos de pruebas manuales, documentación, reportes de bugs y validación de sistemas.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
