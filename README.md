@@ -19,7 +19,7 @@
 -  **Testing Automatizado & QA**: análisis de calidad, detección de errores, documentación clara, uso de frameworks y metodologías ISTQB.
 -  **Python**: desarrollo de scripts, mini-aplicaciones, interfaces gráficas, análisis matemático y automatización.
 -  **Bases de Datos**: MySQL, modelado lógico (EER), consultas, normalización, algebra relacional y resolución de problemas.
--  **Análisis de funciones y proyectos educativos** (POO en Java, Estadística y Probabilidad).
+-  **Análisis de funciones y proyectos de software** (POO en Java, Estadística y Probabilidad).
 -  **Mejorar mi experiencia como apasionado** en la tecnología y por sobre todas las cosas **combinar el diseño con la informática.**
 
 <p align="center">
