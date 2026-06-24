@@ -144,7 +144,7 @@
 - **Córdoba Cybersecurity Conference Reloaded 2025** — Certificado de asistencia, Universidad Siglo 21, 10 de junio de 2025.
 
 ### Ultimas certificaciones
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+![Programming GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 - **Santander Open Academy - Banco Santander** - Programa full stack developer 2026.
 - **QA Academy** - Certificación de Tester QA Automation
 
