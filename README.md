@@ -9,7 +9,7 @@
 
 <h1 align="center">Hola, Soy Joaquín Gonzalez</h1>
 
-<h3 align="center">Analista en Sistemas | Tester Jr | Python & SQL Developer | Futuro Licenciado en It. </h3>
+<h3 align="center">Analista en Sistemas | Tester Jr | Python & SQL Developer | Desarrollo web </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
