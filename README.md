@@ -143,12 +143,17 @@
 
 - **Córdoba Cybersecurity Conference Reloaded 2025** — Certificado de asistencia, Universidad Siglo 21, 10 de junio de 2025.
 
+### Ultimas certificaciones
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+- **Santander Open Academy - Banco Santander** - Programa full stack developer 2026.
+- **QA Academy** - Certificación de Tester QA Automation
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
 ## Proyectos destacados
-- Testing con 5 etapas en software Web (Utilizando frameworks) ➤ Proyecto orientado a ayudar todos los que quieran introducirse al mundo del testing.
+- Testing con 5 etapas en un software Web (Utilizando frameworks) ➤ Proyecto orientado a ayudar todos los que quieran introducirse al mundo del testing.
 - Proyecto de Estadistica Matemática aplicada a programación.
 - Sistemas de gestión y pequeñas aplicaciones educativas.
 - Realización de Lenguajes Formales y Computabilidad en la Programación.
