@@ -153,7 +153,7 @@
 </p>
 
 ## Proyectos destacados
-- Testing con 5 etapas en un software Web (Utilizando frameworks) ➤ Proyecto orientado a ayudar todos los que quieran introducirse al mundo del testing.
+- Testing con 5 etapas en un Software Web (Utilizando frameworks) ➤ Proyecto orientado a ayudar todos los que quieran introducirse al mundo del testing.
 - Proyecto de Estadistica Matemática aplicada a programación.
 - Sistemas de gestión y pequeñas aplicaciones educativas.
 - Realización de Lenguajes Formales y Computabilidad en la Programación.
