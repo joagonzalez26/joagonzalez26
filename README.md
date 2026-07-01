@@ -154,8 +154,8 @@
 </p>
 
 ## Proyectos destacados
-- Testing con 5 etapas en un Software Web (Utilizando frameworks) ➤ Proyecto orientado a ayudar todos los que quieran introducirse al mundo del testing.
-- Proyecto de Estadistica Matemática aplicada a programación.
+- Testing con 5 etapas en un Software Web (Utilizando frameworks). Proyecto orientado a ayudar todos los que quieran introducirse al mundo del testing.
+- Proyecto de Estadistica Matemática + Cálculo Avanzado aplicado a programación.
 - Sistemas de gestión y pequeñas aplicaciones educativas.
 - Realización de Lenguajes Formales y Computabilidad en la Programación.
 - Aplicación Python que permite controlar música usando gestos de las manos detectados en tiempo real con la cámara.
