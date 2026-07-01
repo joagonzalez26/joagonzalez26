@@ -94,6 +94,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ---
 
@@ -104,7 +105,7 @@
 - **Tkinter y PySide6** para interfaces de escritorio.
 - **MySQL y PostgreSQL** para modelado, consultas y gestión de bases de datos.
 - **React, Vite y Tailwind CSS** para interfaces web modernas.
-- **Docker** para levantar entornos de desarrollo completos.
+- **Docker** para levantar entornos de desarrollo completos a testear.
 - **Git y GitHub** para control de versiones y documentación de proyectos.
 - **Pytest, Selenium, Cypress y Robot Framework** para pruebas automatizadas. 
 - **QA Testing** para diseño de casos de pruebas manuales, documentación, reportes de bugs y validación de sistemas.
