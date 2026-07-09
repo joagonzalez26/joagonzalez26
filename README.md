@@ -146,7 +146,7 @@
 
 ### Ultimas certificaciones
 ![Certificaciones](https://img.shields.io/badge/Certificaciones-111827?style=for-the-badge) 
-- **Santander Open Academy - Banco Santander** - Programa Full Stack Developer 2026.
+- **Open Academy - Banco Santander + Universidad Tecnologica Nacional** - Programa Full Stack Developer 2026.
 - **QA Academy** - Certificación carrera de Tester QA Automation.
 
 <p align="center">
