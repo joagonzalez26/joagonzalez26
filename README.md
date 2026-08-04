@@ -19,8 +19,8 @@
 -  **Testing Automatizado & QA**: análisis de calidad, detección de errores, documentación clara, uso de frameworks y metodologías ISTQB.
 -  **Python**: desarrollo de scripts, aplicaciones, interfaces gráficas, análisis matemático, automatización e IA.
 -  **Bases de Datos**: MySQL, modelado lógico (EER), consultas, normalización, algebra relacional y resolución de problemas.
--  **Análisis de funciones y proyectos de software**
--  **Desarrollo full stack**
+-  **Desarrollo full stack**: CSS, JS, React, HTML, Node.js , MongoDB, Express.js , Postman
+-  **Análisis de funciones y proyectos de software** 
 -  **Combinar el diseño con la informática.**
 
 <p align="center">
