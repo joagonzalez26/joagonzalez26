@@ -17,10 +17,10 @@
 
 ## ¿En qué estoy enfocado?
 -  **Testing Automatizado & QA**: análisis de calidad, detección de errores, documentación clara, uso de frameworks y metodologías ISTQB.
--  **Python**: desarrollo de scripts, aplicaciones, interfaces gráficas, análisis matemático y automatización.
+-  **Python**: desarrollo de scripts, aplicaciones, interfaces gráficas, análisis matemático, automatización e IA.
 -  **Bases de Datos**: MySQL, modelado lógico (EER), consultas, normalización, algebra relacional y resolución de problemas.
--  **Análisis de funciones y proyectos de software** (POO en Java, Estadística y Probabilidad).
--  **Mejorar mi experiencia como apasionado** en la tecnología y por sobre todas las cosas **combinar el diseño con la informática.**
+-  **Análisis de funciones y proyectos de software** 
+-  **Combinar el diseño con la informática.**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
