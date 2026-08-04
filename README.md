@@ -79,8 +79,8 @@
 ### Documentación y organización
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Apple Notes](https://img.shields.io/badge/Apple_Notes-FFD43B?style=for-the-badge&logo=apple&logoColor=black)
-![README](https://img.shields.io/badge/README-018EF5?style=for-the-badge&logo=readme&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+![Obsidian](https://img.shields.io/badge/OBSIDIAN-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### Herramientas y entorno de trabajo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
